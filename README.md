@@ -1,2 +1,2 @@
 # PolynomInterpolation
-My Scripts for GNU Octave
+Scripts for GNU Octave
